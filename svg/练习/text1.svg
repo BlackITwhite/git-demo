@@ -1,0 +1,7 @@
+<?xml version="1.0"  encoding="utf-8"  standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="600">
+  <circle cx="100" cy="100" r="50" stroke="red" stroke-width="10" style="cursor:pointer" ></circle>
+  <text x="100" y="106" funt-size="16" fill="white" text-anchor="middle">科鲁兹</text>
+</svg>
